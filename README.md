@@ -70,3 +70,4 @@ python run_dbpedia.py
 ```bash
 python run_wiki.py
 ```
+- Chạy Demo bằng Jupyter file demo.ipynb
